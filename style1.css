@@ -16,6 +16,11 @@ body {
 }
 .text {
     position: relative;
-    left: 33vh;
+    left: 50vh;
     bottom: 10vh;
+}
+.button {
+    position: relative;
+    right: 100vh;
+    top: 10vh;
 }
