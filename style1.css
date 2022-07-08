@@ -1,0 +1,21 @@
+* {margin: 0; padding: 0; box-sizing: border-box; }
+
+.blue {
+    background-color: rgb(53, 53, 201);
+    flex: 1;
+    width: 100%;
+    position: relative;
+    top: 3vh;
+    right: 35vh;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.text {
+    position: relative;
+    left: 33vh;
+    bottom: 10vh;
+}
